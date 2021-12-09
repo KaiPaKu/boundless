@@ -1,0 +1,114 @@
+.textZentrieren
+{
+    text-align: center;  
+}
+
+#top
+{
+    height: 993px;
+    background-image: url(Bilder/home/slider-02.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #000;
+}
+
+#topText1
+{
+    color: white;
+    font-size: 120%;
+    font-weight: 500;
+    margin-top: 350px;
+}
+
+#topText2
+{
+    color: white;
+    font-size: 500%;
+    font-weight: 700;
+}
+
+.orangerText
+{
+    color: orangered;
+    font-size: 125%;
+}
+
+#columBS
+{
+    background-color: teal;
+}
+
+#columCD
+{
+    background-color: orange;
+}
+
+#columCS
+{
+    background-color: royalblue;
+}
+
+.schrift1
+{
+    font-size: 200%;
+    font-weight: 700;
+}
+
+.weißerText
+{
+    color: white;
+    font-size: 125%;
+}
+
+.zentrieren
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.abstandOben1
+{
+    margin-top: 120px;
+}
+
+.abstandOben2
+{
+    margin-top: 40px;
+}
+
+.abstandColum
+{
+    padding: 15px;
+}
+
+#bottom
+{
+    height: 560px;
+    background-image: url(Bilder/home/why-choose-bg.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #000;
+}
+
+.bottomTextAbstand
+{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.weißerText2
+{
+    color: white;
+}
+
